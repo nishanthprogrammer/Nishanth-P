@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nishanth P
 
 🎓 Student at PSG College of Technology, Coimbatore  
-💡 I’m passionate about DSA, backend development, and building automation tools that actually solve problems.
+💡 I’m passionate about DSA, software development, and building automation tools that actually solve problems.
 
 ## 🌐 Social Presence
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-palanisamy-294024277/)
