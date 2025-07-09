@@ -24,6 +24,20 @@
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_12450H-blue?style=flat&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=flat&logo=nvidia&logoColor=white)
+## 🚀 Projects
+
+### 📬 Instagram DM Automation (Backend)
+
+A Python Flask backend that automatically sends DMs to users who comment specific keywords on your Instagram posts — using Meta's Graph API.
+
+🛠 **Stack**: Python, Flask, Webhooks, Meta Graph API  
+🌐 **Hosted on**: Render  
+⚙️ **Highlights**:
+- Real-time webhook listener for Instagram comments
+- Automatic DM replies triggered by keywords
+- Successfully deployed and tested on a business account
+
+📎 **Note**: This is a backend-only project. Test via Postman or by commenting on linked Instagram posts.
 
 ## 📊 Nishanth's GitHub Stats
 ![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthprogrammer&show_icons=true&theme=radical)
