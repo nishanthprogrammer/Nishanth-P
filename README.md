@@ -40,8 +40,8 @@
 
 ## 📊 Nishanth's GitHub Stats
 
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-P&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-P&layout=compact&theme=radical)
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthprogrammer&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprogrammer&layout=compact&theme=radical)
 
 ---
 
@@ -53,5 +53,4 @@
 
 ## 📈 My Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishanth-P&theme=react-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthprogrammer&theme=react-dark)
